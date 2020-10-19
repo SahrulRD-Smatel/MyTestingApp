@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_set_value" type="id" />
+    <item name="tv_text" type="id" />
+    <item name="img_preview" type="id" />
+</resources>
